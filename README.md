@@ -29,6 +29,8 @@ opencv-python-headless==4.2.0.32
 openpyxl==3.0.0
 
 Website pages:
+
+
 Home page:
 
 
@@ -69,10 +71,41 @@ Digitizer Page:
 
  
 Archive page:
- 
+
+
+
+
+
+
+ ![Home](https://github.com/Sachan99/Engrafo_Manuscript-digitizer/blob/master/archive.jpg)
+
+
+
+
+
+
+
+  ![Home](https://github.com/Sachan99/Engrafo_Manuscript-digitizer/blob/master/archive1.jpg)
+
+
+
+
+
+  
  
 
 Feedback Page:
+
+
+
+
+
+
+ ![Home](https://github.com/Sachan99/Engrafo_Manuscript-digitizer/blob/master/feedback.jpg)
+
+
+
+
  
 
 
