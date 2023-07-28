@@ -30,6 +30,10 @@ openpyxl==3.0.0
 
 Website pages:
 Home page:
+
+
+
+
 ![Home](https://github.com/Sachan99/Engrafo_Manuscript-digitizer/blob/master/home.jpg)
 
 
@@ -38,12 +42,31 @@ Home page:
 Help page:
 
 
+
+
+![Home](https://github.com/Sachan99/Engrafo_Manuscript-digitizer/blob/master/help.jpg)
+
+
  
 
 
 
 
 Digitizer Page:
+
+
+
+
+
+
+
+![Home](https://github.com/Sachan99/Engrafo_Manuscript-digitizer/blob/master/digitizer.jpg)
+
+
+
+
+
+
  
 Archive page:
  
